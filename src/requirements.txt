@@ -6,3 +6,4 @@ numpy
 xgboost
 yfinance
 skimpy
+matplotlib
