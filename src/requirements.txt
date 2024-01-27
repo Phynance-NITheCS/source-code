@@ -1,9 +1,7 @@
 pandas
 scikit-learn
-plotly
 tensorflow[and-cuda]
 numpy
 xgboost
 yfinance
-skimpy
 matplotlib
